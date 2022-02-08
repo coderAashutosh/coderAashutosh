@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Netflix-Clone**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://aashutosh.vercel.app/](https://aashutosh.vercel.app/)
 
